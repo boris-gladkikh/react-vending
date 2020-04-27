@@ -1,0 +1,17 @@
+.buglesImg {
+  width: 400px;
+  height: 400px;
+}
+
+body {
+  background-color: goldenrod;
+}
+
+.bugleBox {
+  margin-top: 100px;
+  background-color: white;
+  padding:10px;
+  border: 1px solid black;
+  width: 50%;
+  margin-left: 30%;
+}

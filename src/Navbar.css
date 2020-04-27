@@ -1,0 +1,21 @@
+.navBar {
+  background-color: white;
+  border: 1px solid red;
+  padding: 2px;
+  word-spacing: 100px;
+}
+.navBar ul li {
+  display:inline;
+  margin: 0 2vw;
+  list-style-type: none;
+}
+
+a {
+  font-size: 16px;
+  text-decoration: none;
+
+}
+
+a.active {
+  color: tomato;
+}

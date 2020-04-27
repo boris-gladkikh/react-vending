@@ -1,0 +1,33 @@
+.vendingImg {
+  width: 500px;
+  height: 450px;
+}
+
+body {
+  background-image: url("https://images.unsplash.com/photo-1534723452862-4c874018d66d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+.vendingMachine {
+  margin-top: 100px;
+  background-color: white;
+  padding:10px;
+  border: 1px solid black;
+  width: 50%;
+  margin-left: 30%;
+
+}
+
+ul {
+list-style: none;
+}
+a {
+  color: black;
+}
+a:hover {
+  color: tomato;
+}
+
